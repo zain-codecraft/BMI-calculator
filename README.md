@@ -1,6 +1,6 @@
 #bmicalculator
  A beautiful bmi calculator app.
- My main focus working on this project was  the UI .
+ My main focus working on this project was  the UI and improving the user experience.
  The user enters his/her weight and height and the app calculates and returns his bmi and adds a comment according to result.
 
 ## Getting Started
